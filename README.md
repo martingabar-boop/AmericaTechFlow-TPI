@@ -68,4 +68,32 @@ La planificación de tareas se complementará con un tablero de gestión ágil.
 
 ---
 
-**Estado:** Trabajo Práctico Integrador en desarrollo.
+Estado: Trabajo Práctico Integrador en desarrollo.
+
+
+Indicadores de control
+
+Para realizar el seguimiento del proyecto, se proponen los siguientes indicadores:
+
+1. Tiempo de actualización del stock
+
+Permite medir cuánto tiempo tarda el sistema en actualizar la cantidad disponible después de registrar un movimiento.
+
+- Meta propuesta: actualizar el stock en 5 segundos o menos.
+- Método de control: medir el tiempo entre el registro del movimiento y la actualización de la cantidad disponible.
+
+2. Exactitud de los registros
+
+Permite evaluar si las cantidades registradas en el sistema coinciden con las cantidades verificadas en el inventario.
+
+- Meta propuesta: alcanzar al menos un 90 % de exactitud durante el primer mes.
+- Método de control: comparar los registros del sistema con los datos verificados.
+
+3. Avance de las tareas
+
+Permite conocer el progreso de las actividades planificadas mediante el tablero de GitHub Projects.
+
+- Método de cálculo: (cantidad de tareas completadas / cantidad total de tareas) × 100.
+- Método de control: revisar periódicamente los estados de las tareas del tablero.
+
+Las metas indicadas son objetivos propuestos para el proyecto y deberán verificarse durante su implementación.
