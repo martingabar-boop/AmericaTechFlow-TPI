@@ -97,3 +97,10 @@ Permite conocer el progreso de las actividades planificadas mediante el tablero 
 - Método de control: revisar periódicamente los estados de las tareas del tablero.
 
 Las metas indicadas son objetivos propuestos para el proyecto y deberán verificarse durante su implementación.
+
+Uso de herramientas de inteligencia artificial
+
+Durante la elaboración de este trabajo se utilizó ChatGPT como herramienta de apoyo para organizar la documentación, revisar la redacción, y orientar la representación del proceso de registro.
+La herramienta se utilizó como asistencia para desarrollar y revisar los contenidos. Las propuestas se evaluaron en función de los objetivos del proyecto y de las consignas de la actividad.
+
+La responsabilidad sobre la revisión y presentación del trabajo corresponde al autor.
