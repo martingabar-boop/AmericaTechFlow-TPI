@@ -100,7 +100,11 @@ Las metas indicadas son objetivos propuestos para el proyecto y deberán verific
 
 Uso de herramientas de inteligencia artificial
 
-Durante la elaboración de este trabajo se utilizó ChatGPT como herramienta de apoyo para organizar la documentación, revisar la redacción, y orientar la representación del proceso de registro.
+Durante la elaboración de este trabajo se utilizó IA como herramienta de apoyo para organizar la documentación, revisar la redacción, y orientar la representación del proceso de registro.
 La herramienta se utilizó como asistencia para desarrollar y revisar los contenidos. Las propuestas se evaluaron en función de los objetivos del proyecto y de las consignas de la actividad.
 
 La responsabilidad sobre la revisión y presentación del trabajo corresponde al autor.
+
+
+Aclaracion:
+Revisión del Pull Request: La revisión del PR fue realizada por el propio autor por tratarse de un trabajo individual; los comentarios y correcciones quedan documentados en el PR.
